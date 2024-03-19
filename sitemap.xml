@@ -2,6 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://titlebody.github.io/manifest.json</loc>
+    
+    <lastmod>2024-03-19</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://titlebody.github.io/posts/4a17b156.html</loc>
     
     <lastmod>2024-03-19</lastmod>
@@ -20,7 +29,7 @@
   </url>
   
   <url>
-    <loc>https://titlebody.github.io/manifest.json</loc>
+    <loc>https://titlebody.github.io/posts/84c0e06f.html</loc>
     
     <lastmod>2024-03-19</lastmod>
     
@@ -39,6 +48,13 @@
   
   <url>
     <loc>https://titlebody.github.io/tags/%E7%94%9F%E6%B4%BB/</loc>
+    <lastmod>2024-03-19</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://titlebody.github.io/tags/%E7%94%9F%E6%B0%94%E6%97%A5%E8%AE%B0/</loc>
     <lastmod>2024-03-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
