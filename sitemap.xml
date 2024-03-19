@@ -11,6 +11,15 @@
   </url>
   
   <url>
+    <loc>https://titlebody.github.io/posts/5ccff140.html</loc>
+    
+    <lastmod>2024-03-19</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://titlebody.github.io/manifest.json</loc>
     
     <lastmod>2024-03-19</lastmod>
@@ -27,6 +36,13 @@
     <priority>1.0</priority>
   </url>
 
+  
+  <url>
+    <loc>https://titlebody.github.io/tags/%E7%94%9F%E6%B4%BB/</loc>
+    <lastmod>2024-03-19</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
   
 
   
