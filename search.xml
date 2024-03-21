@@ -81,6 +81,17 @@
     
     
     <entry>
+      <title>加载错误404</title>
+      <link href="/404.html"/>
+      <url>/404.html</url>
+      
+        <content type="html"><![CDATA[<p>404了</p>]]></content>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title></title>
       <link href="/manifest.json"/>
       <url>/manifest.json</url>
